@@ -1,0 +1,58 @@
+/*===================================================
+	TWINS CONTENT
+===================================================*/
+
+.twin-wrapper {	
+	width: 100%;
+	color: #444444;
+	border-radius: 8px;
+}
+
+.twinner {	
+	margin-right: 220px;
+}
+.twin-container .twin .title {
+	background: #ececec;
+	background-image: -webkit-gradient(linear,left bottom,left top,from(#ECECEC),to(#F9F9F9));
+	background-image: -webkit-linear-gradient(bottom,#DBDBDB,#FAFAFA);
+	background-image: -moz-linear-gradient(bottom,#ECECEC,#F9F9F9);
+	background-image: -o-linear-gradient(bottom,#ECECEC,#F9F9F9);
+	background-image: linear-gradient(to top,#ECECEC,#F9F9F9);
+	padding: 10px 5px 10px 10px;
+	border-radius: 5px 5px 0px 0px;
+}
+.twin-container .twin .title h3 {
+	margin: 0;
+	text-shadow: 1px 1px 0px #ffffff;
+	text-transform: capitalize;
+	color: #696969;
+}
+.twin-container {
+	float: left;
+	margin-bottom: 20px;
+}
+.twin-isi {
+	margin: 10px;
+}
+.twin {
+	margin-bottom: 20px;	
+	background: #F2F2F2;
+	border-bottom: 1px solid #dadada;
+	border-radius: 10px;
+	box-shadow: 0px 0px 1px #bbbbbb;
+}
+.twin50 {
+	width: 49%;
+}
+.twin30 {
+	width: 29%
+}
+.twin70 {
+	width: 69%
+}
+.twin-awal {
+
+}
+.twin-akhir {
+	margin-left: 2%;
+}
